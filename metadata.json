@@ -1,0 +1,7 @@
+{
+  "name": "MediBook AI",
+  "description": "A professional AI voice assistant for booking medical appointments seamlessly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
